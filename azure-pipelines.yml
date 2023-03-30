@@ -16,7 +16,7 @@ steps:
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Samurai-aj/ArmPipelines/master/azuredeploy.json'
-    overrideParameters: '-projectName myarmpipeline'
+    csmParametersFileLink: 'https://raw.githubusercontent.com/Samurai-aj/ArmPipelines/master/azuredeploy.parameters.dev.json'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
     
