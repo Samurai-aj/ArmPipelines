@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "storagePrefix": {
-        "value": "testing"
+        "value": "test"
       },
       "storageSKU": {
         "value": "Standard_LRS"
