@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "storagePrefix": {
-        "value": "prodstore"
+        "value": "testingstore"
       },
       "storageSKU": {
         "value": "Standard_LRS"
       },
       "appServicePlanName": {
-        "value": "prodplan"
+        "value": "testing-plan"
       },
     }
   }
