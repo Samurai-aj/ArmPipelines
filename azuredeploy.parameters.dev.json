@@ -6,7 +6,7 @@
         "value": "test"
       },
       "storageSKU": {
-        "value": "Standard_GRS"
+        "value": "Standard_LRS"
       },
       "appServicePlanName": {
         "value": "testing-plan"
